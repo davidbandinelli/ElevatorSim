@@ -1,3 +1,5 @@
 .vs/
 ElevatorSim/obj/
 ElevatorTest/obj/
+ElevatorSim/bin/
+ElevatorTest/bin/

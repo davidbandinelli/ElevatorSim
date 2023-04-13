@@ -1,0 +1,15 @@
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\bin\Debug\net6.0\ElevatorSim.exe
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\bin\Debug\net6.0\ElevatorSim.deps.json
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\bin\Debug\net6.0\ElevatorSim.runtimeconfig.json
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\bin\Debug\net6.0\ElevatorSim.dll
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\bin\Debug\net6.0\ElevatorSim.pdb
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ElevatorSim.csproj.AssemblyReference.cache
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ElevatorSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ElevatorSim.AssemblyInfoInputs.cache
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ElevatorSim.AssemblyInfo.cs
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ElevatorSim.csproj.CoreCompileInputs.cache
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ElevatorSim.dll
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\refint\ElevatorSim.dll
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ElevatorSim.pdb
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ElevatorSim.genruntimeconfig.cache
+C:\GIT\unoinformatica\ElevatorSim\ElevatorSim\obj\Debug\net6.0\ref\ElevatorSim.dll

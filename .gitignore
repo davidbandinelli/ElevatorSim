@@ -13,6 +13,9 @@ ElevatorSim/[Rr]elease/
 ElevatorSim/x64/
 ElevatorSim/[Bb]in/
 ElevatorSim/[Oo]bj/
+.vs/
+ElevatorTest/bin/
+
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -45,6 +48,12 @@ ElevatorSim/[Oo]bj/
 *.scc
 *.dll
 *.pdb
+*.json
+*.cache
+*.props
+*.editorconfig
+*.vsidx
+CoverletSourceRootsMapping/
 
 # Visual C++ cache files
 ipch/
